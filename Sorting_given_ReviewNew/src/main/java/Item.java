@@ -1,1 +1,1 @@
-package main.java;public final class Item {        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
+package main.java;/**	Class:	Item		Description: Creates a class that holds a key value for use in the sorting algorithms */public final class Item {        public int key;        //constructor        public Item(int keyValue) {                 key = keyValue;        }        // further components and methods}
